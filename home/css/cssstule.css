@@ -1,0 +1,13 @@
+.a {
+    color:red;
+}
+#d {
+    color: blue;
+}
+p::first-letter{color: blueviolet}
+a:cover{color: gold}
+:empty{
+    background-color: blue
+    width: 100px;
+    height:10xp;
+}
